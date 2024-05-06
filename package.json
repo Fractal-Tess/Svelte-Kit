@@ -58,7 +58,7 @@
     "tailwindcss-hero-patterns": "^0.1.2",
     "tslib": "^2.6.2",
     "typescript": "^5.3.3",
-    "vite": "^5.0.12",
+    "vite": "^5.2.11",
     "zod": "^3.22.4"
   },
   "packageManager": "pnpm@8.10.0",
